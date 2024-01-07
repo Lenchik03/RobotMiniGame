@@ -12,7 +12,7 @@ internal class Controller
     // цикл по запросу команды
     internal void StartListner()
     {
-        string firstCommands = "111111211211112111111111344";// Console.ReadLine();
+        string firstCommands = "11111121121111211111111134";// Console.ReadLine();
         int[] value = new int[25];
         for(int i = 0; i < 25; i++)
         {
